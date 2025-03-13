@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://meta-mar.shinyapps.io/metamar_llm/">Launch Meta-Mar v4.0.2</a> •
+  <a href="https://www.meta-mar.com">Launch Meta-Mar v4.0.2</a> •
   <a href="#features">Features</a> •
   <a href="#getting-started">Getting Started</a> •
   <a href="#examples">Examples</a> •
@@ -37,7 +37,7 @@ The tool supports a wide range of meta-analytic procedures, from basic effect si
 
 ### Online Access
 The easiest way to use Meta-Mar is through our hosted version:
-- [Launch Meta-Mar v4.0.2](https://meta-mar.shinyapps.io/metamar_llm/)
+- [Launch Meta-Mar v4.0.2](https://www.meta-mar.com)
 
 ### Local Installation
 
