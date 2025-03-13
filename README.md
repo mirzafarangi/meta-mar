@@ -134,7 +134,7 @@ meta-mar/
 If you use Meta-Mar in your research, please cite it as follows:
 
 ```
-Beheshti, A. (2024). Meta-Mar: An AI-integrated open-access platform for meta-analysis.
+Beheshti, A., Chavanon, M. L., & Christiansen, H. (2020). Emotion dysregulation in adults with attention deficit hyperactivity disorder: a meta-analysis. BMC psychiatry, 20, 1-11.
 https://www.meta-mar.com
 ```
 
